@@ -1,0 +1,14 @@
+.card {
+    padding: 1rem;
+    border: 1px solid grey;
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+}
+
+#cards {
+    padding-top: 1rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+}
